@@ -1,0 +1,8 @@
+@import url('http://fonts.googleapis.com/css?family=Nunito&subset=latin,latin-ext');
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Nunito', sans-serif;
+}

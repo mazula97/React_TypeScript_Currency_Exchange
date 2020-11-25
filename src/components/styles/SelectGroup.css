@@ -1,0 +1,25 @@
+.selectGroup {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 130px;
+    width: 900px;
+    flex-direction: row;
+    font-family: 'Nunito', sans-serif !important;
+}
+
+#changeCurrency {
+    width: 50px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    color: #e2429a;
+}
+
+#changeCurrency:hover {
+    cursor: pointer;
+}
+
+#changeCurrency:focus {
+    outline: none;
+}

@@ -1,0 +1,22 @@
+.informationGroup {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    width: 900px;
+    height: 140px;
+    font-family: 'Nunito', sans-serif !important;
+}
+
+.informationGroupRate {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    padding-left: 25px;
+}
+
+.information {
+    margin-top: 6px;
+    font-size: 19px;
+    font-weight: bold;
+}

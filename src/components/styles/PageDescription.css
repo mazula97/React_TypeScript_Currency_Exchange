@@ -1,0 +1,17 @@
+.pageDescription {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 110px;
+    padding: 20px;
+}
+
+.webTitle {
+    font-size: 30px;
+    color: #363636;
+}
+
+.webSubtitle {
+    color: #979797;
+}

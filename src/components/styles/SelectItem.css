@@ -1,0 +1,48 @@
+.selectItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 350px;
+}
+
+.description {
+    margin-bottom: 0px;
+    margin-left: 5px;
+    font-size: 12px;
+    color: #949292;
+}
+
+select {
+    margin-top: 0px;
+    width: 350px;
+    height: 50px;
+    border-radius: 0;
+    border: 1px solid #ffffff;
+    border-bottom: 2px solid #c4c4c4;
+    outline: none;
+    font-size: 16px !important;
+    font-weight: bold;
+    color: #525252;
+    letter-spacing: 1px;
+}
+
+select:hover {
+    border-bottom: 2px solid #e2429a;
+    cursor: pointer;
+}
+
+select:after {
+    font-size: 16px !important;
+    font-weight: 400;
+    color: #525252;
+    letter-spacing: 1px;
+    padding: 15px;
+}
+
+option {
+    font-size: 16px !important;
+    font-weight: 400;
+    color: #525252;
+    letter-spacing: 1px;
+    padding: 15px;
+}
